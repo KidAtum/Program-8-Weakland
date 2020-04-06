@@ -15,6 +15,8 @@
 		50555C36243B965300593048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 50555C34243B965300593048 /* LaunchScreen.storyboard */; };
 		50555C41243B965300593048 /* Program_8_WeaklandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50555C40243B965300593048 /* Program_8_WeaklandTests.swift */; };
 		50555C4C243B965300593048 /* Program_8_WeaklandUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50555C4B243B965300593048 /* Program_8_WeaklandUITests.swift */; };
+		50555C5A243B987400593048 /* 328-3289688_screener-website-wikipedia-bop-it-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 50555C59243B987400593048 /* 328-3289688_screener-website-wikipedia-bop-it-logo.png */; };
+		50555C5C243B98CA00593048 /* bopit-900x500.png in Resources */ = {isa = PBXBuildFile; fileRef = 50555C5B243B98CA00593048 /* bopit-900x500.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		50555C47243B965300593048 /* Program 8 WeaklandUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Program 8 WeaklandUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		50555C4B243B965300593048 /* Program_8_WeaklandUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Program_8_WeaklandUITests.swift; sourceTree = "<group>"; };
 		50555C4D243B965300593048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		50555C59243B987400593048 /* 328-3289688_screener-website-wikipedia-bop-it-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "328-3289688_screener-website-wikipedia-bop-it-logo.png"; sourceTree = "<group>"; };
+		50555C5B243B98CA00593048 /* bopit-900x500.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bopit-900x500.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				50555C3F243B965300593048 /* Program 8 WeaklandTests */,
 				50555C4A243B965300593048 /* Program 8 WeaklandUITests */,
 				50555C27243B965100593048 /* Products */,
+				50555C59243B987400593048 /* 328-3289688_screener-website-wikipedia-bop-it-logo.png */,
+				50555C5B243B98CA00593048 /* bopit-900x500.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -233,8 +239,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				50555C36243B965300593048 /* LaunchScreen.storyboard in Resources */,
+				50555C5C243B98CA00593048 /* bopit-900x500.png in Resources */,
 				50555C33243B965300593048 /* Assets.xcassets in Resources */,
 				50555C31243B965100593048 /* Main.storyboard in Resources */,
+				50555C5A243B987400593048 /* 328-3289688_screener-website-wikipedia-bop-it-logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
